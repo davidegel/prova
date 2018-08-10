@@ -7,6 +7,6 @@ function addizione()
     return 2 + 5;
 }
 
-$var = addizzione();
+$oop = addizione();
 
 ?>
