@@ -9,4 +9,5 @@ function addizione()
 
 $oop = addizione();
 
+// altro codice #region
 ?>
