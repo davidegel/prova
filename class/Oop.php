@@ -1,11 +1,14 @@
 <?php
 
-class Oop {
+ class Oop {
 
- function addizione() {
-    return 2 + 5;
- } 
+  function addizione() {
+     return 2 + 5;
+  }
+  
+ }
 
-}
+$oop = new Oop();
+$add = $oop->addizione();
 
 ?>
