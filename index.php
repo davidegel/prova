@@ -8,6 +8,5 @@ function addizione()
 }
 
 $oop = addizione();
-$altra = addizione();
 
 ?>
